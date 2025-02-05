@@ -11,3 +11,4 @@ Parking Spot Detection is a computer vision project utilizing OpenCV and the SCV
 - **Configurable parameters** for adaptability to different parking environments.
 - 
 ## Demo
+![Demo Image](Screenshot%202025-02-05%20074737.png)
